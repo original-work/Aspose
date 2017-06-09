@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Jun 07 10:45:01 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Aspose_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Aspose
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
